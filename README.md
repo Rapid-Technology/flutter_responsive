@@ -1,4 +1,4 @@
-# flutter_responsive
+# Flutter Responsive
 
 A new Flutter project.
 
